@@ -2,7 +2,8 @@
 
 Documentation of Iris
 
-## Usage
+## Introduction
 
-1. `npm run setup`
-2. `npm run preview`
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero debitis maiores deleniti, velit repudiandae consequatur asperiores aliquid sapiente molestias error quasi earum! Animi id ad, incidunt totam tenetur at aliquid.
+
+# Hello
