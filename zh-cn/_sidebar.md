@@ -2,6 +2,7 @@
 - - [中文文档](/zh-cn/index)
 - - - [安装Iris.js](/zh-cn/installation)
 - - - [如何使用Iris.js](/zh-cn/how-to-use)
+- - - [Iris对象模型介绍](/zh-cn/oop-patern/oop-patern)
 - - - [Iris语言的语法](/zh-cn/syntex-index)
 - - - - [表达式](/zh-cn/syntex-expression)
 - - - - - [字面量](/zh-cn/syntex-expression#s1)
