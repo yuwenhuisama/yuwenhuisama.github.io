@@ -1,0 +1,30 @@
+{
+  "name": "irisdoc",
+  "version": "1.0.0",
+  "description": "Documentation of Iris",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "./node_modules/.bin/docsify init docs",
+    "preview": "./node_modules/.bin/docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinW/IrisDoc.git"
+  },
+  "keywords": [
+    "Iris"
+  ],
+  "author": "Chi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChinW/IrisDoc/issues"
+  },
+  "homepage": "https://github.com/ChinW/IrisDoc#readme",
+  "devDependencies": {
+    "docsify-cli": "^1.1.1"
+  }
+}
