@@ -1,4 +1,4 @@
-- [主页(Home)](/)
+- [主页(Home)](/README)
 - - [中文文档](/zh-cn/index)
 - - - [安装Iris.js](/zh-cn/installation)
 - - - [如何使用Iris.js](/zh-cn/how-to-use)
