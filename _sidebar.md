@@ -1,4 +1,3 @@
-- [Home](/)
-- [Installation](/index)
-- Essentials
-  - [Syntax](/syntax)
+- [主页(Home)](/)
+- - [中文文档](/zh-cn/index)
+- - English Document
