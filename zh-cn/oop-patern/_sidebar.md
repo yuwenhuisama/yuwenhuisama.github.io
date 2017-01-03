@@ -19,4 +19,4 @@
 - - - - - [补充：类方法的查找顺序](/zh-cn/oop-patern/oop-patern#s4-3)
 - - - - [实例变量和类变量](/zh-cn/oop-patern/oop-patern#s5)
 - - - - [语言扩展](/zh-cn/oop-patern/oop-patern#s6)
-- - - [Iris语言的语法](/zh-cn/syntex-index)
+- - - [Iris语言的语法](/zh-cn/syntex/syntex-index)
