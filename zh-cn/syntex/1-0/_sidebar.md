@@ -6,4 +6,8 @@
 - - - [Iris对象模型介绍](/zh-cn/oop-patern/oop-patern)
 - - - [Iris语言的语法](/zh-cn/syntex/syntex-index)
 - - - - [Iris 1.0](/zh-cn/syntex/1-0/index)
+- - - - - [表达式](/zh-cn/syntex/1-0/expression/syntex-expression)
+- - - - - [语句](/zh-cn/syntex/1-0/statement/syntex-statement)
+- - - - - [细节说明](/zh-cn/syntex/1-0/details/syntex-details)
+- - - - - [高级用法](/zh-cn/syntex/1-0/pro-use/syntex-pro-use)
 - - - - [Iris 1.1](/zh-cn/syntex/1-1/lambda-annotation)
